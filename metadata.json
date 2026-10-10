@@ -1,0 +1,6 @@
+{
+  "name": "ZK Oriflame Products Benefit Extractor",
+  "description": "Extract verified Oriflame product benefits in authentic Urdu script and generate luxury 19:16 advertising banners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
